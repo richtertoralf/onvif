@@ -1,6 +1,6 @@
 # onvif
 ## ONVIF Device Manager
-<img src='./ONVIF_Screenshot_2023-11.png' width=60%>  
+<img src='./ONVIF_Screenshot_2023-11.png' width=90%>  
 Download: https://github.com/richtertoralf/onvif/blob/main/odm-v2.2.250.msi (Stand 11/2023)
 
 ## China-Kameras mit älterer Software (Stand 11/2023)
